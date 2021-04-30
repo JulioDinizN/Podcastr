@@ -17,8 +17,8 @@ Este Projeto foi desenvolvido durante a NLW#5 no intuito de ser uma introdução
 ## Screenshots
 
 ![Example screenshot](./readme-images/first-screenshot.png)
+
 ![Example screenshot](./readme-images/second-screenshot.png)
-![Example screenshot](./readme-images/third-screenshot.png)
 
 ## Tecnologias
 
