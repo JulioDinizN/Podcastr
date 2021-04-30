@@ -1,6 +1,7 @@
 # Podcastr
 
-> Uma plataforma de podcasts desenvolvida com o Next.js
+> Uma plataforma de podcasts desenvolvida com o Next.js.
+
 > A aplicação não possui uma versão online, pois faz-se a necessidade de ter um back-end para se buscar os dados mostrados em tela
 
 ## Sumário
