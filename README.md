@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Podcastr
 
-## Getting Started
+> Uma plataforma de podcasts desenvolvida com o Next.js
 
-First, run the development server:
+## Sumário
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- [Informações Adicionais](#Informações-Adicionais)
+- [Screenshots](#Screenshots)
+- [Tecnologias](#Tecnologias)
+- [Setup](#setup)
+- [Funcionalidades](#Funcionalidades)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Informações Adicionais
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Este Projeto foi desenvolvido durante a NLW#5 no intuito de ser uma introdução ao Next.js e também se aprimorar no uso de React e de programação em geral.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Screenshots
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Example screenshot](./readme-images/first-screenshot.png)
+![Example screenshot](./readme-images/second-screenshot.png)
+![Example screenshot](./readme-images/third-screenshot.png)
 
-## Learn More
+## Tecnologias
 
-To learn more about Next.js, take a look at the following resources:
+- React
+- Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Setup
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Para rodar a aplicação primeiro execute o comando
+` npm run dev # ou yarn dev`
 
-## Deploy on Vercel
+## Funcionalidades
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Dentre as principais funcionalidades que foram adicionadas a aplicação o uso dessas se destacam:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Uso de Server-side-redering
+- Uso de Static Site Generation por parte do Next.js
+- Integração com uma API "falsa" para a busca dos dados que são usados na aplicação
+
+Aprimoramentos a serem feitos:
+
+- Implementação da versão responsiva da aplicação
+- E criação de um back-end para fazer o Deploy da Aplicação na Internet
