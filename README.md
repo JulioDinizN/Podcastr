@@ -1,6 +1,7 @@
 # Podcastr
 
 > Uma plataforma de podcasts desenvolvida com o Next.js
+> A aplicação não possui uma versão online, pois faz-se a necessidade de ter um back-end para se buscar os dados mostrados em tela
 
 ## Sumário
 
@@ -27,8 +28,11 @@ Este Projeto foi desenvolvido durante a NLW#5 no intuito de ser uma introdução
 
 ## Setup
 
-Para rodar a aplicação primeiro execute o comando
+Para rodar a aplicação primeiro execute o comando:
 ` npm run dev # ou yarn dev`
+
+E para rodar a "falsa" API use o comando:
+`yarn server`
 
 ## Funcionalidades
 
