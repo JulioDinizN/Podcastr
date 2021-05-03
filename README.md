@@ -2,8 +2,6 @@
 
 > Uma plataforma de podcasts desenvolvida com o Next.js.
 
-> A aplicação não possui uma versão online, pois faz-se a necessidade de ter um back-end para se buscar os dados mostrados em tela
-
 ## Sumário
 
 - [Informações Adicionais](#Informações-Adicionais)
@@ -41,9 +39,3 @@ Dentre as principais funcionalidades que foram adicionadas a aplicação o uso d
 
 - Uso de Server-side-redering
 - Uso de Static Site Generation por parte do Next.js
-- Integração com uma API "falsa" para a busca dos dados que são usados na aplicação
-
-Aprimoramentos a serem feitos:
-
-- Implementação da versão responsiva da aplicação
-- E criação de um back-end para fazer o Deploy da Aplicação na Internet
