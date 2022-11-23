@@ -1,18 +1,18 @@
 # Podcastr
 
-> Uma plataforma de podcasts desenvolvida com o Next.js.
+> A Podcast Plataform developed with Next.js
 
-## Sumário
+## Summary
 
-- [Informações Adicionais](#Informações-Adicionais)
+- [Additional info](#Additional-info)
 - [Screenshots](#Screenshots)
-- [Tecnologias](#Tecnologias)
-- [Setup](#setup)
-- [Funcionalidades](#Funcionalidades)
+- [Technologies](#Technologies)
+- [Setup](#Setup)
+- [Funcionalidades](#Features)
 
-## Informações Adicionais
+## Additional info
 
-Este Projeto foi desenvolvido durante a NLW#5 no intuito de ser uma introdução ao Next.js e também se aprimorar no uso de React e de programação em geral.
+The project was developed during a coding event (NLW#5) with the intent of being an introduction to the Next.js web framework and also improve in React and programming in general
 
 ## Screenshots
 
@@ -20,22 +20,24 @@ Este Projeto foi desenvolvido durante a NLW#5 no intuito de ser uma introdução
 
 ![Example screenshot](./readme-images/second-screenshot.png)
 
-## Tecnologias
+## Technologies
 
 - React
 - Next.js
 
 ## Setup
 
-Para rodar a aplicação primeiro execute o comando:
-` npm run dev # ou yarn dev`
+1. Clone the repository
+2. cd Podcastr
+3. `npm install # or yarn`
+4. `npm run dev # or yarn dev`
+5. `npm run server # or yarn server`
 
-E para rodar a "falsa" API use o comando:
-`yarn server`
+## Features
 
-## Funcionalidades
+Among the many features that were developed in this application these two are worth point out: 
 
-Dentre as principais funcionalidades que foram adicionadas a aplicação o uso dessas se destacam:
+- Use of SSR (Server-side-rendering)
+- Use of SSG (Static Site Generation)
 
-- Uso de Server-side-redering
-- Uso de Static Site Generation por parte do Next.js
+Both were utilizing Next
